@@ -17,6 +17,15 @@
     --lh-54: 54px;
     --lh-64: 64px;
     --lh-88: 88px;
+    /* -------color------ */
+    --color-white: white;
+    --dark-white: rgba(255, 255, 255, 0.3);
+    --color-black: black;
+    --black-dark: #1D252D;
+}
+
+.font-normalidad {
+    font-family: var(--font-normalidad);
 }
 
 .fs-sm {
@@ -86,4 +95,22 @@
 
 .lh-88 {
     line-height: var(--lh-88) !important;
+}
+
+/* ------------------color----------------- */
+
+.text-white {
+    color: var(--white) !important;
+}
+
+.black-dark {
+    color: var(--black-dark) !important;
+}
+
+.color-black {
+    color: var(--color-black) !important;
+}
+
+.bg-dark-white {
+    color: var(--dark-white) !important;
 }
