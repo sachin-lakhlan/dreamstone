@@ -100,6 +100,10 @@
     margin-top: 198px;
 }
 
+.mt-166 {
+    margin-top: 166px;
+}
+
 /* ---------nav----------- */
 .menu-lines {
     width: 30px;
@@ -274,6 +278,14 @@
 }
 
 /* slider-section */
+
+.bg-img {
+    background-image: url(../image/png/fotter-layer-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
 .five-steps-btn {
     border-radius: 34px;
     padding: 8px 14px 8px 14px;
@@ -283,10 +295,6 @@
 
 .gap-10 {
     gap: 10px;
-}
-
-.mt-166 {
-    margin-top: 166px;
 }
 
 .max-w-650 {
