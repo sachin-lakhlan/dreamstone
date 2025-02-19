@@ -22,6 +22,7 @@
     --dark-white: rgba(255, 255, 255, 0.3);
     --color-black: black;
     --black-dark: #1D252D;
+    --white-opicity-30: #B1BCEE;
 }
 
 .font-normalidad {
@@ -113,4 +114,8 @@
 
 .bg-dark-white {
     color: var(--dark-white) !important;
+}
+
+.white-opicity-30 {
+    color: var(--white-opicity-30) !important;
 }
